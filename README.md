@@ -70,16 +70,4 @@ kill-virus-game/
 | 消灭病毒 | 按下病毒上显示的英文字母键（不区分大小写） |
 | 重新开始 | 游戏结束后点击「重新开始」 |
 
-## 📌 项目说明
-
-本项目由 [starsprint/kill-virus](https://github.com/starsprint/kill-virus) 整合而来，保留原有的核心玩法和视觉资源，并将原本分离的 HTML、CSS、JavaScript、图片及音效合并为一个独立的 `index.html`，方便分享、离线打开和部署。
-
-**原项目：** https://github.com/starsprint/kill-virus
-
-**致谢：** 感谢原项目作者及贡献者。
-
-关于使用、修改与再分发的权限，请以原项目实际提供的许可证和相关权利声明为准；单文件整合不改变原素材及代码的权利归属。
-
----
-
 **准备好了吗？按下对应字母，在病毒触底之前消灭它们！** 🦠
